@@ -8,10 +8,8 @@ if nb % 2 == 0 :
 
    print("le nombre est pair")
 
-elif nb % 2 != 0 :
+else nb % 2 != 0 :
 
   print("le nombre est impair")
 
-else : 
- print("donner une autre valeur ")   
 
