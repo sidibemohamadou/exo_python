@@ -8,7 +8,7 @@ if nb % 2 == 0 :
 
    print("le nombre est pair")
 
-else nb % 2 != 0 :
+else  :
 
   print("le nombre est impair")
 
