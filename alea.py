@@ -7,8 +7,8 @@ while True:
      if retour == nombre_secret:
        print("bravo,vous avez gagné")
      elif  retour > nombre_secret:
-       print("le nombre_secret est inferieur au valeur donner")
+        print("le nombre_secret est inferieur au valeur donner")
      else:
-       print("le nombre_secret est superieur au valeur donner")
-     break
+        print("le nombre_secret est superieur au valeur donner")
+        break
  
