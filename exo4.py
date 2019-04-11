@@ -12,5 +12,5 @@ for answer in range(3)
      else:
        print("bravo,vous avez gagné")
         sys.exit()
-print("malheureusement vous avez perdu")
+ print("malheureusement vous avez perdu")
 
